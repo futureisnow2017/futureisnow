@@ -103,9 +103,9 @@
 				"autoTrigger": true,
 				"autoTriggerOnly": true,
 				"autoTriggerRange": 10,
-				"contentType": "video/mp4",
+				"contentType": "audio/mp3",
 				"method": "GET",
-				"uri": "https://raw.githubusercontent.com/futureisnow2017/futureisnow/master/data/video/IMG_3665.MP4"
+				"uri": "https://raw.githubusercontent.com/futureisnow2017/futureisnow/master/data/audio/Titellied.mp3"
 			}],
 			"anchor": {
 				"geolocation": {
@@ -115,7 +115,7 @@
 			},
 			"id": 5,
 			"text": {
-				"title": "Marktplatz",
+				"title": "on the way",
 				"description": "write to root",
 				"footnote": "whatever"
 			}
