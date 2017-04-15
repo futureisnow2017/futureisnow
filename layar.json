@@ -71,7 +71,8 @@
 			},
 			"id": 3,
 			"text": {
-				"title": "don't go there"
+				"title": "don't go there",
+				"description": "if you are here, you are going to die."
 			}
 		}
 	],
