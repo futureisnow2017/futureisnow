@@ -1,1 +1,80 @@
-# futureisnow
+{
+	"errorCode": 0,
+	"errorString": "ok",
+	"radius" : 100,
+	"hotspots": [
+
+
+		{
+			"actions": [{
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "video/mp4",
+				"method": "GET",
+				"uri": "https://rawgit.com/otakuu/myRepo/master/futureIsNow/Video.MOV"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 47.5531349,
+					"lon": 7.590780099999961
+				}
+			},
+			"id": 1,
+			"text": {
+				"title": "This POI is on Stadtkino"
+			}
+		},
+
+		{
+			"actions": [{
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "audio/mp3",
+				"method": "GET",
+				"uri": "http://gaia-elkartea.com/pdf/test.mp3"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 47.5536732,
+					"lon": 7.590626899999961
+				}
+			},
+			"id": 2,
+			"text": {
+				"title": "This POI is on Tinguely Brunnen Basel"
+			}
+		},
+
+		{
+			"actions": [{
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "audio/mp3",
+				"method": "GET",
+				"uri": "http://gaia-elkartea.com/pdf/test.mp3"
+			}, {
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "video/mp4",
+				"method": "GET",
+				"uri": "https://rawgit.com/otakuu/myRepo/master/futureIsNow/test_1.mp4"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 47.5515424,
+					"lon": 7.623615900000004
+				}
+			},
+			"id": 3,
+			"text": {
+				"title": "This POI is on ROXY Basel"
+			}
+		}
+	],
+
+	"layer": "futureisnowv8qf"
+}
