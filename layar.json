@@ -119,6 +119,28 @@
 				"description": "write to root",
 				"footnote": "whatever"
 			}
+		},
+		{
+			"actions": [{
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "audio/mp3",
+				"method": "GET",
+				"uri": "https://raw.githubusercontent.com/futureisnow2017/futureisnow/master/data/audio/Titellied2.mp3"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 47.558378,
+					"lon": 7.587731
+				}
+			},
+			"id": 6,
+			"text": {
+				"title": "Marktplatz",
+				"description": "2nd sucess",
+				"footnote": "can you read this?"
+			}
 		}
 	],
 
