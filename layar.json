@@ -74,8 +74,32 @@
 				"title": "don't go there",
 				"description": "if you are here, you are going to die."
 			}
+		},
+		
+		{
+			"actions": [{
+				"autoTrigger": true,
+				"autoTriggerOnly": true,
+				"autoTriggerRange": 10,
+				"contentType": "video/mp4",
+				"method": "GET",
+				"uri": "https://raw.githubusercontent.com/futureisnow2017/futureisnow/master/data/IMG_3665.MP4"
+			}],
+			"anchor": {
+				"geolocation": {
+					"lat": 47.55654,
+					"lon": 7.588396999999986
+				}
+			},
+			"id": 4,
+			"text": {
+				"title": "place where root is",
+				"description": "say hello when you see her.",
+				"subtitle": "whatever"
+			}
 		}
 	],
+
 
 	"layer": "futureisnowv8qf"
 }
